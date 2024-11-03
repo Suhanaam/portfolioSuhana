@@ -9,7 +9,7 @@ const PortfolioMe = () => {
      <div className="container-fluid">
     <a className="navbar-brand" href="#">
       <img
-        src='public/suhana22.jpeg'
+        src='./public/suhana22.jpeg'
         alt="Logo"
         width={80}
         height={74}        
@@ -60,7 +60,7 @@ const PortfolioMe = () => {
         <div className="row">  
           <div className="col-md-4">  
             <div className="card mb-4">  
-              <img src="public/kt.png" className="card-img-top" alt="Project 1" />  
+              <img src="./public/kt.png" className="card-img-top" alt="Project 1" />  
               <div className="card-body">  
                 <h5 className="card-title">Kerala Tourism Webpage</h5>  
                 <p className="card-text">Its a simple webpage created By using html,css & bootstrap,its my firststep to my oroject development</p>  
@@ -70,7 +70,7 @@ const PortfolioMe = () => {
           </div>  
           <div className="col-md-4">  
             <div className="card mb-4">  
-              <img src="public/todo.png" className="card-img-top" alt="Project 2" />  
+              <img src="./public/todo.png" className="card-img-top" alt="Project 2" />  
               <div className="card-body">  
                 <h5 className="card-title">To Do List</h5>  
                 <p className="card-text">html,css,bootstrap and javascript</p>  
@@ -80,7 +80,7 @@ const PortfolioMe = () => {
           </div>  
           <div className="col-md-4">  
             <div className="card mb-4">  
-              <img src="public/pf.png" className="card-img-top" alt="Project 3" />  
+              <img src="./public/pf.png" className="card-img-top" alt="Project 3" />  
               <div className="card-body">  
                 <h5 className="card-title">Profile Card</h5>  
                 <p className="card-text">html,css ,bootstrap & javascript</p>  
